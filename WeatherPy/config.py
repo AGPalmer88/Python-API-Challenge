@@ -1,32 +1,3 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "PythonData",
-   "language": "python",
-   "name": "pythondata"
-  },
-  "language_info": {
-   "codemirror_mode": {
-    "name": "ipython",
-    "version": 3
-   },
-   "file_extension": ".py",
-   "mimetype": "text/x-python",
-   "name": "python",
-   "nbconvert_exporter": "python",
-   "pygments_lexer": "ipython3",
-   "version": "3.6.10"
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 4
-}
+weather_api_key = "9246be5369046e9d6295393ab5911965"
+
+gkey = "AIzaSyDmr78LrTZd3C994rnl6omqp5YU1McABKQ"
